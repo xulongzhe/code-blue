@@ -180,8 +180,7 @@
             "name": "Comments",
             "scope": "comment, punctuation.definition.comment",
             "settings": {
-                "foreground": "#7b89b5",
-                "fontStyle": "italic"
+                "foreground": "#7b89b5"
             }
         },
         {
@@ -532,7 +531,6 @@
             "name": "comment",
             "scope": "comment.line.double-slash,comment.block.documentation",
             "settings": {
-                "fontStyle": "italic"
             }
         },
         {
